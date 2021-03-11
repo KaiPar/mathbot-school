@@ -63,6 +63,9 @@ def gen_resp(inp):
 
 
 def main():
+    print ("Welcome to mathbot...")
+    print ("To begin with, ask me any formula(for eg. what is the area of a square?)")
+    print ("Enjoy..")
     print ("Press Ctr+C or Cmd+C to exit")
     try:
         while True:
